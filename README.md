@@ -9,6 +9,6 @@ Simple C# code to send your customer account information to them as a console.ex
 3. In line 25 and 40 you can specify password and username credientals to login on console.
 4. Build and send the exe app to your customers. (Becareful to not break their trust)
 # 📗 | Example
-I have already build console app with this current code so you can test it for example.
+[I have already build console app with this current code so you can test it for example](https://github.com/Praxime/Customer-account-information/releases).
 # ❤️ | Support
 Support me by giving a **little star** to this Repo! <3
