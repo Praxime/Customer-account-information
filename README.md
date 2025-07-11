@@ -1,13 +1,14 @@
 # [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com) [![Praxime](https://cdn.praxime.ir/favicon48.png)](https://praxime.ir) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-# 🤖 | Discord Token Onliner for Bots
-its a very easy onliner code!
-well... it have very easy steps too!
+# 🤖 | Customer account console
+Simple C# code to send your customer account information to them as a console.exe file
 # 🚧 | Requirements
-1. Nodejs
+1. Visual Studio / C# Extentions
 # 👞 | Steps
-1. Go to File Directory and run "cmd" and in Command Prompt, Write "npm install discord.js". 
-2. Open "Bot_Token_Onliner.js" file and in token input section _line 8_, put your Bot token which one you want to make it Onlined.
-3. Go to file Directory and run "cmd". 
-4. Write "node Bot_Token_Onliner.js" and your bot is Online! 
+1. Open file with code editor (Like Visual studio).
+2. In line 17, 18 and 19 you can specify your customer account information.
+3. In line 25 and 40 you can specify password and username credientals to login on console.
+4. Build and send the exe app to your customers. (Becareful to not break their trust)
+# 📗 | Example
+I have already build console app with this current code so you can test it for example.
 # ❤️ | Support
 Support me by giving a **little star** to this Repo! <3
