@@ -1,1 +1,1 @@
-# [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com) [![Praxime](https://cdn.praxime.ir/friends/praximenobg.png)](https://praxime.ir) https://[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+# [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com) [![Praxime](https://cdn.praxime.ir/friends/praximenobg.png)](https://praxime.ir) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
